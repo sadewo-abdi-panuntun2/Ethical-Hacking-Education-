@@ -30,6 +30,6 @@ Repository ini dibuat untuk:
 
 ## 📦 Instalasi
 ```bash
-git clone https://github.com/username/Ethical-Hacking-Education.git
+git clone https://github.com/sadewo-abdi-panuntun2/Ethical-Hacking-Education-.git
 cd Ethical-Hacking-Education
 pip install -r requirements.txt
